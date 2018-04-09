@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+const{h:l}=window.StencilApp;class t{render(){return l("div",null,l("h4",null,"item-start"),l("slot",{name:"item-start"},"item-start fallback"),l("hr",null),l("h4",null,"slot"),l("slot",null,"slot fallback"),l("hr",null),l("h4",null,"item-end"),l("slot",{name:"item-end"},"item-end fallback"),l("hr",null))}static get is(){return"my-app"}static get encapsulation(){return"shadow"}}export{t as MyApp};
