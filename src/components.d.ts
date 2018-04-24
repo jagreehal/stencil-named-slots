@@ -25,9 +25,15 @@ declare global {
 
 
 declare global {
-  interface HTMLMyAppElement extends HTMLStencilElement {
 
+  namespace StencilComponents {
+    interface MyApp {
+
+    }
   }
+
+  interface HTMLMyAppElement extends StencilComponents.MyApp, HTMLStencilElement {}
+
   var HTMLMyAppElement: {
     prototype: HTMLMyAppElement;
     new (): HTMLMyAppElement;

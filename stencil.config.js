@@ -4,6 +4,7 @@ const sass = require('@stencil/sass');
 
 exports.config = {
   buildEs5: true,
+  resourcesUrl: 'stencil-named-slots',
   namespace: 'stencil-app',
   outputTargets: [{
     type: 'www'
