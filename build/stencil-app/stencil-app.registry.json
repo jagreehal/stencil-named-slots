@@ -2,8 +2,8 @@
   "namespace": "StencilApp",
   "fsNamespace": "stencil-app",
   "loader": "../stencil-app.js",
-  "core": "stencil-app.wkwkheta.js",
-  "corePolyfilled": "stencil-app.njuzzz7n.js",
+  "core": "stencil-app.rodf5a87.js",
+  "corePolyfilled": "stencil-app.itadyxy5.js",
   "components": {
     "my-app": {
       "$": "k1rzrq7i"

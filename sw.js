@@ -8,12 +8,10 @@
  * The rest of the code is auto-generated. Please don't update this file
  * directly; instead, make changes to your Workbox build configuration
  * and re-run your build process.
- * See https://goo.gl/YYPcyY
+ * See https://goo.gl/2aRDsh
  */
 
-importScripts(
-  "https://storage.googleapis.com/workbox-cdn/releases/3.0.0-alpha.6/workbox-sw.js"
-);
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -31,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "build/stencil-app.js",
-    "revision": "3b4bb77cedeedd8e8b33c9fa774ff4d3"
+    "revision": "f37b58b0a7e5d34ccec5e553b9023b1b"
   },
   {
     "url": "build/stencil-app/k1rzrq7i.es5.js",
@@ -50,12 +48,12 @@ self.__precacheManifest = [
     "revision": "89c21ad7d1802f0062fa55dfbcec1a9c"
   },
   {
-    "url": "build/stencil-app/stencil-app.njuzzz7n.js",
-    "revision": "1a6e4c813ca62dcf147a9b352828d735"
+    "url": "build/stencil-app/stencil-app.itadyxy5.js",
+    "revision": "078d33670330af56626893c8efcb7404"
   },
   {
-    "url": "build/stencil-app/stencil-app.wkwkheta.js",
-    "revision": "52eaf124282a5260497e2d31ffc8bded"
+    "url": "build/stencil-app/stencil-app.rodf5a87.js",
+    "revision": "26b1e9f8f5386e242de1428277442e86"
   },
   {
     "url": "index.html",
